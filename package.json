@@ -1,0 +1,14 @@
+{
+  "name": "ultrachromic",
+  "version": "1.0.0",
+  "description": "The final form, the true evolution of the chromic theme saga! The old trilogy of chromic themes are deprecated, as their appearances can be replicated using Ultrachromic.",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.0.5"
+  }
+}
